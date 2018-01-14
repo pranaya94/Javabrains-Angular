@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app = "moreDirectivesApp">
+<head><title>Calculator</title></head>
+<body>
+
+<h1>Calculator App</h1>
+<div ng-controller="MoreDirectivesCtrl as ctrl">
+	<input type="checkbox" ng-model="ctrl.checked"></input>
+	<div ng-show="ctrl.checked">
+		<div ng-repeat="obj in ctrl.obj">{{$index}} {{$middle}} {{$first}} {{$last}} hello {{obj.name}}  {{obj.age}} <hr/> </div>		
+	</div>
+</div>
+
+<script src="angular.js"></script>
+<script src="app.js"></script>
+<script src="myModule.js"></script>
+</body>
+</html>
+
+

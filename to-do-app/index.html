@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><title>ToDo App</title></head>
+<body ng-app="toDoApp">
+
+<div ng-controller="toDoCtrl as Ctrl">
+	<p>Add a To-Do:</p>
+
+	<input type = "text" ng-model="Ctrl.newTask"></input><br/>
+	<button ng-click="Ctrl.add()">Add</button>
+
+	<p>Your To-Dos:</p><br/>
+	<button ng-click="Ctrl.editMode()">{{Ctrl.buttonText}}</button>
+	
+	<ol>
+		<li ng-repeat="task in Ctrl.taskList track by $index">
+			<input ng-show="Ctrl.editModeFlag" ng-model="task"></input>
+			<span ng-hide="Ctrl.editModeFlag" ng-bind="task"></span>
+			<button ng-hide="Ctrl.editModeFlag" ng-click="Ctrl.delete($index)">Delete</button>
+		</li>		
+	</ol>
+	
+
+</div>
+<script src="angular.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

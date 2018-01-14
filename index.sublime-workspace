@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contro",
+				"controllerAs"
+			],
+			[
+				"angul",
+				"angular-app"
+			],
+			[
+				"Hot",
+				"HotelsController"
+			],
+			[
+				"angular",
+				"angular-route"
+			],
+			[
+				"revi",
+				"reviews"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"s",
+				"cjk-heavenly-stem"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"sql",
+				"sqlDb"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"line",
+				"linewidth"
+			],
+			[
+				"name",
+				"name\tpygame(key) "
+			],
+			[
+				"to_do_list",
+				"to_do_list2"
+			],
+			[
+				"to_do_li",
+				"to_do_list"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 536.0,
+		"last_filter": "Package Control: d",
+		"selected_items":
+		[
+			[
+				"Package Control: d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Build With: SublimeREPL-python"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: reo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 270.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/prtomar/Documents/Github Repos/Javabrains Angular/clock-app/angular.js",
+		"/C/Users/prtomar/Documents/Github Repos/Javabrains Angular/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/Javabrains Angular/clock-app/app.js",
+		"/C/Users/prtomar/Documents/Clients/Jefferies Q3Q4 FY17/Tableau Rerun/Tabluea programs as of EOD 4 January/Lines_Flagged_Merging_Program.sas",
+		"/C/Users/prtomar/Documents/Github Repos/Javabrains Angular/angular.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-rating/hotel-rating-directive.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-display/hotel.html",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-data-factory/hotel-data-factory.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-display/hotel-display-controller.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-list/hotels.html",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotel-list/hotel-list-controller.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/app.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/app.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/data/hotel-data.json",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/angular-app/hotels.html",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/routes/index.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/data/hotels.model.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/data/db.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/controllers/hotel.controllers.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/controllers/reviews.controllers.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/jquery/jquery-3.2.1.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/data/dbconnection.js",
+		"/C/Users/prtomar/AppData/Local/Temp/wzb6ad/32 APIs_PUT updating data/api/controllers/reviews.controllers.js",
+		"/C/Users/prtomar/AppData/Local/Temp/wz056c/32 APIs_PUT updating data/api/controllers/reviews.controllers.js",
+		"/C/Users/prtomar/AppData/Local/Temp/wz374d/30 APIs_Hardening/api/controllers/reviews.controllers.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/api/controllers/hotelreivewidquery.txt",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/package.json",
+		"/C/Users/prtomar/MEAN/api/data/tech.json",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/nodemon.json",
+		"/C/Users/prtomar/MEAN/api/data/tach",
+		"/C/Users/prtomar/dump/meantest/tech.bson",
+		"/C/Users/prtomar/dump/meantest/tech.metadata.json",
+		"/C/Users/prtomar/Documents/Clients/Jefferies Q3Q4 FY17/Dateprep Rerun/Jefferies Q1Q2 FY17 - Data Preparation Program.txt",
+		"/C/Users/prtomar/Downloads/hotel-data.json",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/routes/index.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/css/bootstrap.min.css",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/public/css/custom.css",
+		"/C/Users/prtomar/AppData/Local/Temp/wzc188/08 Express_static files/public/css/custom.css",
+		"/C/Users/prtomar/AppData/Local/Temp/wz45c1/08 Express_static files/public/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN scratch/readFileAsync.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/.gitignore",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN/readme.md",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/computational-blocking.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/_fibonacci.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/readFileAsync.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/readFileSync.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/computational-non-blocking.js",
+		"/C/Users/prtomar/Documents/Github Repos/MEAN Hotel/setTimeout.js",
+		"/C/Users/prtomar/Documents/Github Repos/NodeTest/package.json",
+		"/C/Users/prtomar/Documents/Github Repos/NodeTest/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/NodeTest/app.js",
+		"/C/Users/prtomar/Documents/Github Repos/Node Crash/app.js",
+		"/C/Users/prtomar/Documents/Github Repos/CSS Crash/mywebsite/css/style.css",
+		"/C/Users/prtomar/Documents/Github Repos/CSS Crash/mywebsite/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/CSS Crash/csscheatsheet/css/style.css",
+		"/C/Users/prtomar/Documents/Github Repos/CSS Crash/csscheatsheet/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/CSS Crash/index",
+		"/C/Users/prtomar/Documents/Github Repos/Website/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/Website/The Gym Files/jquery.blueberry.js",
+		"/C/Users/prtomar/Documents/Github Repos/Website/The Gym Files/blueberry.css",
+		"/C/Users/prtomar/Documents/Github Repos/Geeks-For-Geeks/Linked_List_Recursive_Search.cpp",
+		"/C/Users/prtomar/Documents/Github Repos/HackerRank/MinMax1.cpp",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/controllers/employee.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/settings.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/db.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/myserver.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/app.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/settings.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/employee.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/app.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/core/server.js",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/demo_db_connect.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/node_modules/settings.js",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/main.js",
+		"/C/Users/prtomar/Documents/Personal/NodeJSProject/node_modules/db.js",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/experiment_style.css",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/cssexperiment.html",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/style.css",
+		"/C/Users/prtomar/Documents/Personal/Javascript Project/index.html",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/primer1.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/tepm.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/slicing_dataframes.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/pandas_primer1.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/cdiscount",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/matplot_primer1.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/pandas_primer2.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/test.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/numpy_primer3.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/numpy_primer2.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/numpy_primer1.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/primer4.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/primer3.py",
+		"/C/Users/prtomar/Documents/Github Repos/LearningPython/primer2.py",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/prtomar/Documents/Github Repos/PongLearn/pong_game.py",
+		"/C/Users/prtomar/Documents/Github Repos/PongLearn/test_pong.py",
+		"/C/Users/prtomar/Documents/Github Repos/Breast-Cancer-Kaggle/diagnose.py",
+		"/C/Users/prtomar/Documents/Github Repos/SnakeLearn/snake.py",
+		"/C/Users/prtomar/Documents/Github Repos/SnakeLearn/snake_game.py",
+		"/C/Users/prtomar/Documents/Github Repos/snake.py",
+		"/C/Users/prtomar/Documents/Github Repos/Breast-Cancer-Kaggle/diagnose",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Users/prtomar/Documents/Github Repos/learning-scikit-learn/test.py",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/prtomar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/prtomar/Documents/Personal/Coursera/Machine Learning Revisted/machine-learning-ex4 - Copy/ex4/nnCostFunction.m",
+		"/C/Users/prtomar/Documents/Data Hackathon/Stock Final Close Program.txt",
+		"/C/Users/prtomar/Documents/Personal/Coursera/Machine Learning/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/C/xampp/htdocs/hopline/index.html",
+		"/C/xampp/htdocs/hopline/css/bootstrap.css",
+		"/C/xampp/htdocs/hopline/index.php",
+		"/C/xampp/htdocs/hopline/css/shop-item.css",
+		"/C/xampp/htdocs/hopline/css/bootstrap.min.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SASDATA1.GL_DASHBOARD",
+			" \t",
+			"Id(",
+			"id(",
+			":",
+			"dis"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

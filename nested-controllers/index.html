@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html ng-app="nestedControllers">
+<head><title>nested conrollers</title></head>
+<body>
+
+	<h1>nested controllers app</h1>
+	<div ng-controller="Ctrl1 as c1">
+		<p ng-bind = "c1.testProp"></p>
+		<!-- <p ng-bind = "c2.testProp">heh</p> out of scope wont work -->
+		<div ng-controller="Ctrl2 as c2">
+			<p ng-bind = "c2.testProp"></p>
+			<p ng-bind = "c1.testProp"></p>
+		</div>
+	</div>
+
+
+<script src="angular.js"></script>
+<script src="app.js"></script>
+</body>

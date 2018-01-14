@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app = "clockApp">
+<head><title>Clock App</title></head>
+<body>
+
+	<h1>Clock App</h1>
+	<div ng-controller = "TimeCtrl">
+		Enter name: <input ng-model="userName" type="text"></input>
+		<p>The time is {{timeString}}</p>
+		<p>What's up {{userName}}</p>
+		<button ng-click="updateTime()">Update Time</button>			
+	</div>
+	<!-- <button ng-click="updateTime()">Update Time</button> wont
+		work as outside controller div scope--> 
+
+<script src="angular.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
+
+
